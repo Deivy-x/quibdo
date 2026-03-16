@@ -1,0 +1,32 @@
+body{
+display:flex;
+align-items:center;
+justify-content:center;
+height:100vh;
+background:#f3f4f6;
+}
+
+.login-container{
+background:white;
+padding:40px;
+border-radius:12px;
+width:350px;
+}
+
+.login-container input{
+width:100%;
+padding:12px;
+margin-top:15px;
+border:1px solid #ddd;
+border-radius:8px;
+}
+
+.login-container button{
+width:100%;
+margin-top:20px;
+background:#1f9d55;
+color:white;
+border:none;
+padding:12px;
+border-radius:8px;
+}
